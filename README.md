@@ -31,7 +31,7 @@ This would return a sentiment classification with a confidence score.
 
 1. **Clone the Repository:**
    ```bash
-   git clone <>
+   git clone <https://github.com/faisalaldwaish/Sentiment-Analysis-of-Restaurant-Reviews/tree/main>
    
    ```
 
