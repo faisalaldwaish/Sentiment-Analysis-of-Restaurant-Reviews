@@ -19,3 +19,19 @@ The application also provides a visualization of the distribution of ratings wit
 - `gradio_review_classifier.py`: Implements a simple Gradio interface with hardcoded reviews and their ratings.
 - `full_review_sentiment_analysis.py`: Full implementation with Gradio integration, performing both sentiment analysis and review classification using the dataset.
 - `Restaurant_reviews.csv`: The dataset containing restaurant reviews and ratings.
+  
+# Sentiment Analysis of Restaurant Reviews Using Hugging Face and Gradio
+
+## Installation
+
+### Requirements:
+- Python 3.x
+
+### Install dependencies:
+```bash
+pip install -r requirements.txt
+
+
+
+
+
