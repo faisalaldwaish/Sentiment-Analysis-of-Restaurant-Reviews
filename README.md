@@ -56,12 +56,9 @@ Matching Score: 90%
 
 - [Hugging Face Project](https://huggingface.co/spaces/Faisalaldwaish1/Sentiment-Analysis-of-Restaurant-Reviews)
 
-## Video Walkthrough
-A video walkthrough of the project can be found in the repository. You can view it by downloading the video file or accessing the link provided if uploaded to an external platform.
+## Video 
+link video
 
---- 
-
-This version aligns with the files you provided. Let me know if you need any further modifications!
 
 
 
