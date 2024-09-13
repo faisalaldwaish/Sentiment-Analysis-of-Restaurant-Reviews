@@ -69,6 +69,9 @@ Matching Score: 90%
 ### Rating Distribution
 <img src="https://github.com/user-attachments/assets/33d4a290-f0af-4a68-be80-4dfb06a842db" alt="Rating plot" width="500"/>
 
+## Hugging Face Project Page
+
+- [Hugging Face Project](https://huggingface.co/spaces/Faisalaldwaish1/Sentiment-Analysis-of-Restaurant-Reviews)
 
 ## Video Walkthrough
 A video walkthrough of the project can be found in the repository. You can view it by downloading the video file or accessing the link provided if uploaded to an external platform.
