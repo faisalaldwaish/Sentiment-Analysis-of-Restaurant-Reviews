@@ -33,7 +33,9 @@ This would return a sentiment classification with a confidence score.
    ```bash
    git clone <https://github.com/faisalaldwaish/Sentiment-Analysis-of-Restaurant-Reviews/tree/main>
    
+   
    ```
+ After running this command navigate the folder that you have save the repository at, then run *full_review_sentiment_analysis.py* file
 
 ## Expected Output
 
