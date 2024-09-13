@@ -29,28 +29,11 @@ This would return a sentiment classification with a confidence score.
 
 ## Running the Code
 
-### Requirements
-To run the project, you need to install the required libraries. You can do so by running:
-```bash
-pip install -r requirements.txt
-```
-
-### Steps to Run
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/repository-name.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd repository-name
-    ```
-3. Run the Gradio interface:
-    ```bash
-    python full_review_sentiment_analysis.py
-    ```
-4. The Gradio interface will open in your browser with two tabs:
-    - **Review Classifier**: Classify a restaurant review based on fuzzy matching with the dataset and sentiment analysis.
-    - **Rating Distribution**: Displays a plot showing the distribution of ratings in the dataset.
+1. **Clone the Repository:**
+   ```bash
+   git clone <>
+   
+   ```
 
 ## Expected Output
 
