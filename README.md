@@ -26,6 +26,10 @@ result = classifier("The food was great!")
 ```
 
 This would return a sentiment classification with a confidence score.
+* A sentiment analysis result from the Hugging Face model.
+  
+As shown in the figure below:
+![image](https://github.com/user-attachments/assets/44eee318-99a2-4a6f-8406-3d2d7a2d0e95)
 
 ## Running the Code
 
@@ -56,7 +60,7 @@ Matching Score: 90%
 
 ## Hugging Face Project Page
 
-- [Hugging Face Project](https://huggingface.co/spaces/Faisalaldwaish1/Sentiment-Analysis-of-Restaurant-Reviews)
+- [Hugging Face Project](https://huggingface.co/spaces/Faisalaldwaish1/Sentiment-Analysis-of-Restaurant-Reviews/blob/main/app.py)
 
 ## Video 
 link video
