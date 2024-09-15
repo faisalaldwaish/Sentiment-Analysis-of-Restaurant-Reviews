@@ -29,7 +29,16 @@ This would return a sentiment classification with a confidence score.
 * A sentiment analysis result from the Hugging Face model.
   
 As shown in the figure below:
-![image](https://github.com/user-attachments/assets/44eee318-99a2-4a6f-8406-3d2d7a2d0e95)
+As shown in the figure below:
+![image](https://github.com/user-attachments/assets/1ae9378e-b818-420a-bdfb-f964700c77f2)
+
+
+### Rating Distribution
+![image](https://github.com/user-attachments/assets/b99b659c-82d0-4be3-af6b-102e8be43994)
+
+
+### Dataset Preview
+![image](https://github.com/user-attachments/assets/a0258d71-ce5d-4538-9bf6-cc51ae78fa84)
 
 ## Running the Code
 
