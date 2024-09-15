@@ -60,7 +60,7 @@ Matching Score: 90%
 
 ## Hugging Face Project Page
 
-- [Hugging Face Project](https://huggingface.co/spaces/Faisalaldwaish1/Sentiment-Analysis-of-Restaurant-Reviews/blob/main/app.py)
+- [Hugging Face Project](https://huggingface.co/spaces/Faisalaldwaish1/Sentiment-Analysis-of-Restaurant-Reviews)
 
 ## Video 
 link video https://drive.google.com/file/d/1T1rsY1OINRqydjZ2tsTnlAkQYu3eBzBT/view?usp=sharing
