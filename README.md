@@ -65,6 +65,10 @@ Matching Score: 90%
 ## Video 
 link video https://drive.google.com/file/d/1T1rsY1OINRqydjZ2tsTnlAkQYu3eBzBT/view?usp=sharing
 
+## the dataset in kaggle
+[Kaggle Restaurant Reviews Dataset](https://www.kaggle.com/datasets/joebeachcapital/restaurant-reviews)
+
+
 
 
 
